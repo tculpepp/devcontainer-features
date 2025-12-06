@@ -3,10 +3,10 @@
   "id": "alpine-ohmyzsh",
   "version": "0.0.23",
   "description": "Installs ohmyzsh on alpine",
-  "documentationURL": "https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-ohmyzsh",
+  "documentationURL": "https://github.com/tculpepp/devcontainer-features/tree/main/src/alpine-ohmyzsh",
   "installsAfter": [
-    "ghcr.io/cirolosapio/devcontainers-features/alpine-user",
-    "ghcr.io/cirolosapio/devcontainers-features/alpine-starship"
+    "ghcr.io/cirolosapio/devcontainer-features/alpine-user",
+    "ghcr.io/cirolosapio/devcontainer-features/alpine-starship"
   ],
   "options": {
     "defaultPlugins": {

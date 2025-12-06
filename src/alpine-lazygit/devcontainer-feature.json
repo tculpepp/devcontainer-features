@@ -3,8 +3,8 @@
   "id": "alpine-lazygit",
   "version": "0.0.1",
   "description": "Installs lazygit on alpine",
-  "documentationURL": "https://github.com/cirolosapio/devcontainers-features/tree/main/src/alpine-lazygit",
+  "documentationURL": "https://github.com/tculpepp/devcontainer-features/tree/main/src/alpine-lazygit",
   "installsAfter": [
-    "ghcr.io/cirolosapio/devcontainers-features/alpine-ohmyzsh"
+    "ghcr.io/cirolosapio/devcontainer-features/alpine-ohmyzsh"
   ]
 }
