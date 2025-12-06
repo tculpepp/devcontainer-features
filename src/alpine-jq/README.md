@@ -7,7 +7,7 @@ Installs jq on alpine
 
 ```json
 "features": {
-    "ghcr.io/cirolosapio/devcontainers-features/alpine-jq:0": {}
+    "ghcr.io/tculpepp/devcontainer-features/alpine-jq:0": {}
 }
 ```
 
@@ -17,4 +17,4 @@ Installs jq on alpine
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/cirolosapio/devcontainers-features/blob/main/src/alpine-jq/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/tculpepp/devcontainer-features/blob/main/src/alpine-jq/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
