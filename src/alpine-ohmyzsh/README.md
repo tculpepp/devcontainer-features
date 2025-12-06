@@ -7,7 +7,7 @@ Installs ohmyzsh on alpine
 
 ```json
 "features": {
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-ohmyzsh:0": {}
+    "ghcr.io/tculpepp/devcontainer-features/alpine-ohmyzsh:0": {}
 }
 ```
 

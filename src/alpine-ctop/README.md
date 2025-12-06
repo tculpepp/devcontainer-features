@@ -7,7 +7,7 @@ Installs ctop on alpine
 
 ```json
 "features": {
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-ctop:0": {}
+    "ghcr.io/tculpepp/devcontainer-features/alpine-ctop:0": {}
 }
 ```
 

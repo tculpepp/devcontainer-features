@@ -7,7 +7,7 @@ Installs ohmyzsh on alpine
 
 ```json
 "features": {
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-ohmyzsh:0": {}
+    "ghcr.io/tculpepp/devcontainer-features/alpine-ohmyzsh:0": {}
 }
 ```
 
@@ -22,4 +22,4 @@ Installs ohmyzsh on alpine
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/tculpepp/devcontainer-features/blob/main/src/alpine-ohmyzsh/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/tculpepp/devcontainer-features/blob/main/src/alpine-zsh/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

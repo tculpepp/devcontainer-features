@@ -7,7 +7,7 @@ Installs sentry cli on alpine
 
 ```json
 "features": {
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-sentry-cli:0": {}
+    "ghcr.io/tculpepp/devcontainer-features/alpine-sentry-cli:0": {}
 }
 ```
 

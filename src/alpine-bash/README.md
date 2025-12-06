@@ -7,7 +7,7 @@ Installs bash on alpine
 
 ```json
 "features": {
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-bash:0": {}
+    "ghcr.io/tculpepp/devcontainer-features/alpine-bash:0": {}
 }
 ```
 

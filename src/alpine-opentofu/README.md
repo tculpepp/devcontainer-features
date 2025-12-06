@@ -7,7 +7,7 @@ Installs opentofu on alpine
 
 ```json
 "features": {
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-opentofu:0": {}
+    "ghcr.io/tculpepp/devcontainer-features/alpine-opentofu:0": {}
 }
 ```
 

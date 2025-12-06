@@ -7,7 +7,7 @@ Installs pgsql client on alpine
 
 ```json
 "features": {
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-pgsql-client:0": {}
+    "ghcr.io/tculpepp/devcontainer-features/alpine-pgsql-client:0": {}
 }
 ```
 
