@@ -5,6 +5,6 @@
   "description": "Installs sentry cli on alpine",
   "documentationURL": "https://github.com/tculpepp/devcontainer-features/tree/main/src/alpine-sentry-cli",
   "dependsOn": {
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-curl": {}
+    "ghcr.io/tculpepp/devcontainer-features/alpine-curl": {}
   }
 }

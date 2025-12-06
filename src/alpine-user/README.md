@@ -7,7 +7,7 @@ Create a user on alpine
 
 ```json
 "features": {
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-user:0": {}
+    "ghcr.io/tculpepp/devcontainer-features/alpine-user:0": {}
 }
 ```
 

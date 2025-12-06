@@ -5,8 +5,8 @@
   "description": "Installs ohmyzsh on alpine",
   "documentationURL": "https://github.com/tculpepp/devcontainer-features/tree/main/src/alpine-ohmyzsh",
   "installsAfter": [
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-user",
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-starship"
+    "ghcr.io/tculpepp/devcontainer-features/alpine-user",
+    "ghcr.io/tculpepp/devcontainer-features/alpine-starship"
   ],
   "options": {
     "defaultPlugins": {

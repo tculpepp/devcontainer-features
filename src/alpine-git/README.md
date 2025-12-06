@@ -7,7 +7,7 @@ Installs git on alpine
 
 ```json
 "features": {
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-git:0": {}
+    "ghcr.io/tculpepp/devcontainer-features/alpine-git:0": {}
 }
 ```
 

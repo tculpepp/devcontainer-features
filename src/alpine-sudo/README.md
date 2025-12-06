@@ -7,7 +7,7 @@ Installs sudo on alpine
 
 ```json
 "features": {
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-sudo:0": {}
+    "ghcr.io/tculpepp/devcontainer-features/alpine-sudo:0": {}
 }
 ```
 

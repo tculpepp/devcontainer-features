@@ -7,7 +7,7 @@ Installs curl on alpine
 
 ```json
 "features": {
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-curl:0": {}
+    "ghcr.io/tculpepp/devcontainer-features/alpine-curl:0": {}
 }
 ```
 

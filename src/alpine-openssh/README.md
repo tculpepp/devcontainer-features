@@ -7,7 +7,7 @@ Installs openssh on alpine
 
 ```json
 "features": {
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-openssh:0": {}
+    "ghcr.io/tculpepp/devcontainer-features/alpine-openssh:0": {}
 }
 ```
 

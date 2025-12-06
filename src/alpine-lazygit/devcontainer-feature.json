@@ -5,6 +5,6 @@
   "description": "Installs lazygit on alpine",
   "documentationURL": "https://github.com/tculpepp/devcontainer-features/tree/main/src/alpine-lazygit",
   "installsAfter": [
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-ohmyzsh"
+    "ghcr.io/tculpepp/devcontainer-features/alpine-ohmyzsh"
   ]
 }

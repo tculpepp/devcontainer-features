@@ -7,7 +7,7 @@ Installs lazygit on alpine
 
 ```json
 "features": {
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-lazygit:0": {}
+    "ghcr.io/tculpepp/devcontainer-features/alpine-lazygit:0": {}
 }
 ```
 

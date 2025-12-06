@@ -7,7 +7,7 @@ Installs sshs on alpine
 
 ```json
 "features": {
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-sshs:0": {}
+    "ghcr.io/tculpepp/devcontainer-features/alpine-sshs:0": {}
 }
 ```
 

@@ -7,7 +7,7 @@ Installs k3d on alpine
 
 ```json
 "features": {
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-k3d:0": {}
+    "ghcr.io/tculpepp/devcontainer-features/alpine-k3d:0": {}
 }
 ```
 

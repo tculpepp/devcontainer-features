@@ -5,7 +5,7 @@
   "description": "Installs k3d on alpine",
   "documentationURL": "https://github.com/tculpepp/devcontainer-features/tree/main/src/alpine-k3d",
   "dependsOn": {
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-curl": {},
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-bash": {}
+    "ghcr.io/tculpepp/devcontainer-features/alpine-curl": {},
+    "ghcr.io/tculpepp/devcontainer-features/alpine-bash": {}
   }
 }

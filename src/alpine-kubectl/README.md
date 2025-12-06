@@ -7,7 +7,7 @@ Installs kubectl on alpine
 
 ```json
 "features": {
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-kubectl:0": {}
+    "ghcr.io/tculpepp/devcontainer-features/alpine-kubectl:0": {}
 }
 ```
 

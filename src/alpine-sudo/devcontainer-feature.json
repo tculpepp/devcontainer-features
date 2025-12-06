@@ -5,6 +5,6 @@
   "description": "Installs sudo on alpine",
   "documentationURL": "https://github.com/tculpepp/devcontainer-features/tree/main/src/alpine-sudo",
   "installsAfter": [
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-user"
+    "ghcr.io/tculpepp/devcontainer-features/alpine-user"
   ]
 }

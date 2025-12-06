@@ -7,7 +7,7 @@ Installs helm on alpine
 
 ```json
 "features": {
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-helm:0": {}
+    "ghcr.io/tculpepp/devcontainer-features/alpine-helm:0": {}
 }
 ```
 

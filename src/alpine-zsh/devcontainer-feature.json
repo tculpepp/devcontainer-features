@@ -1,23 +1,11 @@
 {
-  "name": "alpine-ohmyzsh",
-  "id": "alpine-ohmyzsh",
+  "name": "alpine-zsh",
+  "id": "alpine-zsh",
   "version": "0.0.23",
-  "description": "Installs ohmyzsh on alpine",
-  "documentationURL": "https://github.com/tculpepp/devcontainer-features/tree/main/src/alpine-ohmyzsh",
+  "description": "Installs zsh on alpine",
+  "documentationURL": "https://github.com/tculpepp/devcontainer-features/tree/main/src/alpine-zsh",
   "installsAfter": [
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-user",
-    "ghcr.io/cirolosapio/devcontainer-features/alpine-starship"
-  ],
-  "options": {
-    "defaultPlugins": {
-      "type": "string",
-      "default": "git alias-tips autoupdate zsh-autosuggestions zsh-syntax-highlighting",
-      "description": "Default OhMyZsh plugins to enable"
-    },
-    "plugins": {
-      "type": "string",
-      "default": "",
-      "description": "OhMyZsh plugins to enable"
-    }
-  }
+    "ghcr.io/tculpepp/devcontainer-features/alpine-user",
+    "ghcr.io/tculpepp/devcontainer-features/alpine-starship"
+  ]
 }
